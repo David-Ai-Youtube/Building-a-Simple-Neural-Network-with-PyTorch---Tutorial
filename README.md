@@ -6,25 +6,19 @@ Requirements
     Python 3
     PyTorch
 
-Installation
-
-    Clone the repository:
-
-    bash
-
+# Installation
+Clone the repository:
+```
 git clone https://github.com/username/project.git
 cd project
-
-Install the dependencies:
-
+```
+# Install the dependencies:
+```
     pip install -r requirements.txt
-
-Usage
-
-    Run the main.py script:
-
-    css
-
+```
+# Usage
+Run the main.py script:
+```
 python main.py
-
+```
 The script will generate random input data and pass it through the neural network. The output tensor will be printed to the console.
