@@ -24,6 +24,6 @@ cd project
 # Usage
 Run the main.py script:
 ```
-python main.py
+python neural_network.py
 ```
 The script will generate random input data and pass it through the neural network. The output tensor will be printed to the console.
