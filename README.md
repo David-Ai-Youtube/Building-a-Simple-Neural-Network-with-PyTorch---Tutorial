@@ -1,6 +1,11 @@
 PyTorch Neural Network Project
 
 This project demonstrates how to build a simple neural network using PyTorch. The network architecture consists of two fully connected layers with ReLU activation, and is trained on random input data.
+
+You can use google Colab or follow install below.
+
+https://colab.research.google.com
+
 Requirements
 
     Python 3
